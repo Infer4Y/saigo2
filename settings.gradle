@@ -1,0 +1,4 @@
+rootProject.name = 'saigo2'
+include 'saigo-client'
+include 'saigo-api'
+
